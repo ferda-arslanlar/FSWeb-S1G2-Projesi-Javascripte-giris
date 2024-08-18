@@ -20,8 +20,7 @@ Aşağıdakileri yap:
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
 
-/*
-Görev 1b - Değerler (puanlamaya dahil değildir)
+/*ahil değildir)
 
 Aşağıdakileri yap:   
    1. 2 değişken tanımla ve bunlara değerler ata (isimlendirme olarak birinciDeger ikinciDegeri kullanabilirsin)
@@ -52,8 +51,8 @@ Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:
    3. console.log(carpma(7,4)) ile yazdığın fonsiyonu test edin. Console'da sonucu 28 olarak görmelisin.
 */
 
-function carpma(/*buraya kodunu yazabilirsin*/) {
-  /*buraya kodunu yazabilirsin*/
+function carpma( sayi1, sayi2) {
+  return sayi1 * sayi2
 }
 
 /* Görev 2 : Köpeğin Yaşı */
